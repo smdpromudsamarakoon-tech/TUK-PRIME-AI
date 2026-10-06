@@ -1,0 +1,8 @@
+{
+  "os_system": "mac",
+  "assistant_name": "TUK",
+  "llm_provider": "openai-compatible",
+  "llm_url": "https://api.openai.com/v1",
+  "llm_model": "gpt-4o-mini",
+  "llm_api_key": "YOUR_PROVIDER_API_KEY"
+}
